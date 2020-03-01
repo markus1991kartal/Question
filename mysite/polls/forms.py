@@ -1,12 +1,11 @@
 from django import forms
+from .models import Choice
 
-#from .models import Choice
 
 #class ChoiceForm(forms.ModelForm):
-
 #    class Meta:
 #         model = Choice
-#         fields = ('choice_text',)
+#         fields = ('choice_text')
 
 
 
